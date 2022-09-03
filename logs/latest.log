@@ -1,0 +1,36 @@
+[13:08:32] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:08:32] [Server thread/INFO]: Loading properties
+[13:08:32] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:181) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at nz$2.run(SourceFile:100) [server.jar:?]
+[13:08:32] [Server thread/INFO]: Default game type: SURVIVAL
+[13:08:32] [Server thread/INFO]: Generating keypair
+[13:08:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:08:33] [Server thread/INFO]: Using default channel type
+[13:08:34] [Server thread/INFO]: Preparing level "world"
+[13:08:34] [Server thread/INFO]: Loaded 488 advancements
+[13:08:34] [Server thread/INFO]: Preparing start region for level 0
+[13:08:35] [Server thread/INFO]: Preparing spawn area: 14%
+[13:08:36] [Server thread/INFO]: Preparing spawn area: 31%
+[13:08:37] [Server thread/INFO]: Preparing spawn area: 50%
+[13:08:38] [Server thread/INFO]: Preparing spawn area: 74%
+[13:08:39] [Server thread/INFO]: Preparing spawn area: 99%
+[13:08:39] [Server thread/INFO]: Done (5,526s)! For help, type "help" or "?"
+[13:08:42] [Server thread/INFO]: Stopping server
+[13:08:42] [Server thread/INFO]: Saving players
+[13:08:42] [Server thread/INFO]: Saving worlds
+[13:08:42] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[13:08:42] [Server Shutdown Thread/INFO]: Stopping server
+[13:08:42] [Server Shutdown Thread/INFO]: Saving players
+[13:08:42] [Server Shutdown Thread/INFO]: Saving worlds
