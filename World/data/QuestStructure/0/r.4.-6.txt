@@ -1,0 +1,3 @@
+StonePlantMound1,2074,2080,-3486,-3480
+StonePlantMound4,2064,2071,-3539,-3532
+AbandonedWoodTower,2045,2075,-3540,-3504

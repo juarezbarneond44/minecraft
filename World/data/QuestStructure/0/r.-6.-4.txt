@@ -1,0 +1,14 @@
+StoneLeafMound,-3293,-3286,-2344,-2335
+StoneLeafMound,-3301,-3292,-2444,-2437
+StoneLeafMound,-3239,-3230,-2313,-2306
+RLCraft_DecentWitch,-3315,-3315,-2425,-2425
+RLCraft_UndergroundRuin2,-3320,-3310,-2430,-2423
+BrickHenge,-3352,-3336,-2424,-2408
+StonePlantBoulder,-3380,-3370,-2461,-2451
+StonePlantMound,-3362,-3357,-2554,-2549
+RLCraft_LargeUndergroundTown,-3408,-3271,-2546,-2433
+StonePlantMound1,-3220,-3214,-2286,-2280
+DinosaurSkeleton,-3399,-3353,-2322,-2313
+RLCraft_SmallUndergroundSkeleton,-3392,-3384,-2563,-2555
+StoneLeafMound,-3416,-3407,-2324,-2317
+StonePlantBoulder,-3145,-3135,-2292,-2282

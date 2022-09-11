@@ -1,0 +1,15 @@
+RLCraft_BasicWitch,-1175,-1175,34,34
+RLCraft_UndergroundRuin1,-1181,-1172,28,37
+StonePlantMound2,-1448,-1435,88,100
+StoneLeafMound,-1394,-1385,180,187
+ElvenPond,-1447,-1418,194,224
+StonePlantMound,-1518,-1513,222,227
+StonePlantMound3,-1391,-1382,265,276
+StonePlantMound4,-1401,-1394,290,297
+MeteorSite,-1486,-1471,320,350
+P_IslandCity,-1207,-873,201,507
+StonePlantMound,-1494,-1489,391,396
+RLCraft_BasicSkeleton,-1421,-1421,406,406
+RLCraft_UndergroundRuin1,-1424,-1415,403,412
+RLCraft_SmallUndergroundSkeleton,-1520,-1512,425,433
+UndergroundCultChamber,-1508,-1466,481,513

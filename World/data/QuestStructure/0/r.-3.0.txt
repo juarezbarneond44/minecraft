@@ -1,0 +1,2 @@
+ClayWaterMound,-1971,-1964,495,503
+StonePlantMound4,-1868,-1861,270,277

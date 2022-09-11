@@ -1,0 +1,12 @@
+StonePlantMound1,-2611,-2605,-1145,-1139
+StonePlantMound1,-2704,-2698,-1322,-1316
+StonePlantMound3,-2702,-2691,-1176,-1167
+P_TownMeridor,-2764,-2621,-1301,-1130
+UndergroundCrypt,-2648,-2620,-1099,-1085
+SpiderPit,-2695,-2685,-1348,-1339
+StonePlantMound2,-2706,-2693,-1099,-1087
+StonePlantMound2,-2764,-2751,-1330,-1318
+StoneBoulder,-2794,-2785,-1282,-1273
+RLCraft_BasicWitch,-2595,-2595,-1392,-1392
+RLCraft_UndergroundRuin1,-2598,-2589,-1395,-1386
+StonePlantMound1,-2595,-2589,-1041,-1035

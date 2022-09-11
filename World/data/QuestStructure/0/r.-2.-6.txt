@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,-1094,-1086,-3201,-3193
+StonePlantMound1,-1211,-1205,-3087,-3081
+DinosaurSkeleton,-1220,-1174,-3112,-3103
+DinosaurSkull,-1207,-1196,-3159,-3140
+StonePlantMound1,-1233,-1227,-3156,-3150

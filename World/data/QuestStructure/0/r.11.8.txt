@@ -1,0 +1,5 @@
+RLCraft_DecentSpider,5940,5940,4563,4563
+RLCraft_UndergroundRuin3,5937,5945,4561,4569
+BrickHenge,6021,6037,4429,4445
+StonePlantMound3,5805,5814,4315,4326
+PeacefulCrypt,5672,5696,4475,4491

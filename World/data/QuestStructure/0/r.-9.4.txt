@@ -1,0 +1,5 @@
+RLCraft_DecentSkeleton,-4755,-4755,2055,2055
+RLCraft_UndergroundRuin3,-4758,-4750,2049,2057
+DinosaurSkull,-4778,-4759,2064,2075
+RLCraft_DecentCaveSpider,-4906,-4906,2092,2092
+RLCraft_UndergroundRuin2,-4911,-4904,2087,2097

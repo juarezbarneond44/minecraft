@@ -1,0 +1,4 @@
+StonePlantBoulder,4604,4614,-3522,-3512
+StoneLeafMound,4650,4657,-3513,-3504
+VillageForgeLarge,4636,4648,-3470,-3454
+SeasonsGreenhouse,4657,4667,-3468,-3456

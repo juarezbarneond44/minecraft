@@ -1,0 +1,12 @@
+DinosaurSkull,-3845,-3826,130,141
+StonePlantMound4,-3859,-3852,105,112
+RLCraft_DecentCaveSpider,-3720,-3720,263,263
+RLCraft_UndergroundRuin3,-3725,-3717,261,269
+ClayWaterMound1,-3748,-3737,308,318
+StoneBoulder,-3836,-3827,377,386
+UndergroundCultChamber,-4015,-3973,362,394
+StonePlantMound,-3747,-3742,378,383
+StonePlantBoulder,-3731,-3721,91,101
+ClayWaterMound1,-3695,-3684,119,129
+StonePlantBoulder,-3833,-3823,388,398
+StonePlantBoulder,-3917,-3907,389,399

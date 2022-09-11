@@ -1,0 +1,4 @@
+StonePlantMound4,-3411,-3404,-2570,-2563
+RLCraft_DecentZombie,-3171,-3171,-2594,-2594
+RLCraft_UndergroundRuin3,-3176,-3168,-2600,-2592
+Tree_Oak_TheMushroomOak_v3,-3412,-3362,-2605,-2546
