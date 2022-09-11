@@ -1,0 +1,5 @@
+StonePlantMound,4650,4655,3568,3573
+StonePlantMound1,4852,4858,3567,3573
+SmallAbandonedMine,4895,4910,3562,3587
+StoneBoulder,4704,4713,3567,3576
+StonePlantBoulder,4626,4636,3545,3555

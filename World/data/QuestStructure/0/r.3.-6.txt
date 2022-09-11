@@ -1,0 +1,8 @@
+StonePlantMound,1971,1976,-3435,-3430
+ForestBeacon,1949,1957,-3497,-3489
+StoneLeafMound,1964,1971,-3501,-3492
+StonePlantMound1,2004,2010,-3387,-3381
+RLCraft_BasicWitch,1846,1846,-3510,-3510
+RLCraft_UndergroundRuin1,1840,1849,-3516,-3507
+StonePlantMound1,2023,2029,-3346,-3340
+StoneLeafMound,2006,2013,-3574,-3565

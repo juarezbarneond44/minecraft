@@ -1,0 +1,2 @@
+RLCraft_DecentSkeleton,-1022,-1022,-3001,-3001
+DinosaurSkull,-964,-945,-2980,-2969

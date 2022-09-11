@@ -1,0 +1,8 @@
+StoneLeafMound,-2556,-2547,-1254,-1247
+StonePlantBoulder,-2478,-2468,-1222,-1212
+RLCraft_BasicZombie,-2482,-2482,-1238,-1238
+RLCraft_UndergroundRuin1,-2488,-2479,-1244,-1235
+RLCraft_DecentZombie,-2443,-2443,-1228,-1228
+RLCraft_UndergroundRuin2,-2445,-2438,-1233,-1223
+StonePlantMound1,-2479,-2473,-1097,-1091
+ShrineSmallFire,-2522,-2512,-1039,-1029

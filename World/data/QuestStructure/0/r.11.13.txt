@@ -1,0 +1,6 @@
+StonePlantMound4,6119,6126,6687,6694
+StonePlantMound3,6045,6056,6666,6675
+StoneBoulder,6026,6035,6700,6709
+ShrineSmallFire,5979,5989,6743,6753
+RLCraft_BasicSkeleton,5986,5986,6809,6809
+RLCraft_UndergroundRuin1,5983,5992,6803,6812

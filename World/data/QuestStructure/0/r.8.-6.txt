@@ -1,0 +1,5 @@
+ElvenPond,4550,4579,-3557,-3527
+StoneBoulder,4437,4446,-3502,-3493
+StonePlantMound4,4537,4544,-3493,-3486
+RLCraft_DecentWitch,4383,4383,-3465,-3465
+RLCraft_UndergroundRuin3,4377,4385,-3468,-3460

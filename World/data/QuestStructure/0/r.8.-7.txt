@@ -1,0 +1,7 @@
+StonePlantMound1,4512,4518,-3653,-3647
+P_WizardTower,4501,4531,-3679,-3649
+StonePlantBoulder,4451,4461,-3641,-3631
+RLCraft_DecentWitch,4513,4513,-3698,-3698
+RLCraft_UndergroundRuin2,4508,4515,-3703,-3693
+StonePlantMound3,4591,4602,-3593,-3584
+P_WitchDungeon,4394,4428,-3694,-3677

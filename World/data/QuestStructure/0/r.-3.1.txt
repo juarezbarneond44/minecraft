@@ -1,0 +1,4 @@
+WoodenClockTower,-2065,-2025,501,533
+RLCraft_SmallUndergroundSkeleton,-1960,-1952,509,517
+OldWatchtower,-1866,-1854,545,558
+StonePlantMound3,-1955,-1946,608,619

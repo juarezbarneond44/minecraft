@@ -1,0 +1,7 @@
+StonePlantMound1,6138,6144,7558,7564
+RLCraft_SmallUndergroundSkeleton,6134,6142,7500,7508
+BrickHenge,6099,6115,7643,7659
+StonePlantMound3,6091,6102,7498,7507
+StonePlantMound4,6069,6076,7638,7645
+RLCraft_BasicSkeleton,6073,6073,7438,7438
+RLCraft_UndergroundRuin1,6067,6076,7435,7444

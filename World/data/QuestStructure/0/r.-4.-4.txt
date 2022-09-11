@@ -1,0 +1,3 @@
+StonePlantMound,-2234,-2229,-2316,-2311
+RLCraft_SmallUndergroundSkeleton,-2200,-2192,-2225,-2217
+DinosaurSkull,-2062,-2043,-2180,-2169
