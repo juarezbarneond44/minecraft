@@ -1,1 +1,16 @@
 RLCraft_SmallUndergroundSkeleton,2046,2054,-400,-392
+StoneBoulder,2070,2079,13,22
+StonePlantBoulder,2103,2113,7,17
+ShrineSmallFire,2304,2314,26,36
+StoneLeafMound,2217,2224,91,100
+StoneBoulder,2400,2409,96,105
+StonePlantMound2,2259,2271,135,148
+StonePlantMound4,2256,2263,153,160
+RLCraft_SmallUndergroundSkeleton,2424,2432,162,170
+StonePlantBoulder,2400,2410,169,179
+RLCraft_DecentWitch,2180,2180,187,187
+RLCraft_UndergroundRuin2,2175,2185,182,189
+StonePlantBoulder,2414,2424,193,203
+StonePlantMound,2076,2081,207,212
+P_WitchDungeon,2267,2301,205,222
+RLCraft_LargeUndergroundTown,2487,2624,146,259

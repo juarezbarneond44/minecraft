@@ -30,3 +30,5 @@ WoodWallRemains,-746,-718,-928,-920
 RLCraft_SmallUndergroundSkeleton,-598,-590,-870,-862
 RLCraft_BasicSkeleton,-575,-575,-527,-527
 RLCraft_UndergroundRuin1,-578,-569,-530,-521
+P_WitchDungeon,-725,-708,-1034,-1000
+StonePlantMound3,-1029,-1018,-742,-733

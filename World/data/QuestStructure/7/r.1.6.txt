@@ -1,0 +1,7 @@
+PeacefulCrypt,1004,1028,3467,3483
+StonePlantMound2,986,998,3156,3169
+StonePlantMound,985,990,3384,3389
+StoneLeafMound,986,995,3438,3445
+StonePlantMound,980,985,3165,3170
+StonePlantMound3,962,973,3221,3230
+StonePlantMound3,976,987,3459,3468

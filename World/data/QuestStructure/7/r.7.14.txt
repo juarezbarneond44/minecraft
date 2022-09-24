@@ -1,0 +1,16 @@
+StonePlantMound4,3640,3647,7171,7178
+StoneBoulder,3679,3688,7215,7224
+ForestBeacon,3880,3888,7232,7240
+PeacefulCrypt,3715,3731,7231,7255
+StonePlantBoulder,3781,3791,7237,7247
+StonePlantMound1,3729,3735,7262,7268
+StonePlantMound,3809,3814,7266,7271
+StonePlantBoulder,3791,3801,7263,7273
+WoodThornBig,3971,3984,7269,7282
+StoneLeafMound,3904,3911,7286,7295
+StonePlantMound1,4044,4050,7298,7304
+RLCraft_SmallUndergroundSkeleton,4077,4085,7293,7301
+OldWatchtower,4083,4095,7289,7302
+StonePlantBoulder,3890,3900,7314,7324
+StonePlantBoulder,3992,4002,7326,7336
+StonePlantMound1,3871,3877,7328,7334

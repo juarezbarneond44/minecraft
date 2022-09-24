@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,4072,4080,6588,6596
+IceThorn4,4016,4042,6626,6642
+StoneIceBoulder,4029,4039,6643,6652
+StoneIceBoulder,3959,3969,6572,6581
+StoneIceBoulder,3972,3982,6599,6608

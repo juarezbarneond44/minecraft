@@ -19,3 +19,10 @@ StonePlantMound4,-1378,-1371,784,791
 StoneBoulder,-1344,-1335,786,795
 StonePlantMound2,-1155,-1143,826,839
 StonePlantMound4,-1128,-1121,834,841
+SmallAbandonedMine,-1064,-1049,855,880
+StonePlantMound1,-1048,-1042,908,914
+StonePlantMound,-1528,-1523,925,930
+RLCraft_SmallUndergroundSkeleton,-1411,-1403,926,934
+UndergroundCultChamber,-1149,-1117,902,944
+StonePlantMound4,-1073,-1066,919,926
+DinosaurSkeleton,-1410,-1401,922,968

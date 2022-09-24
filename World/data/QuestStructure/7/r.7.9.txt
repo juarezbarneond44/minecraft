@@ -1,0 +1,3 @@
+StoneLeafMound,3638,3647,5113,5120
+DinosaurSkull,3608,3619,5103,5122
+SmallAbandonedMine,3586,3611,5087,5102

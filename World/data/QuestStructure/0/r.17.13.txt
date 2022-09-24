@@ -1,0 +1,3 @@
+SmallWoodenCottage,8717,8728,6942,6950
+StonePlantMound2,8740,8753,7006,7018
+StonePlantMound4,8743,8750,6974,6981

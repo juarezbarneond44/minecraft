@@ -1,0 +1,5 @@
+P_VillageFarmhouse,2535,2547,4594,4606
+RLCraft_DecentCaveSpider,2260,2260,4596,4596
+RLCraft_UndergroundRuin2,2255,2265,4591,4598
+UndergroundCultChamber,2234,2266,4488,4530
+UndergroundCrypt,2458,2472,4431,4459

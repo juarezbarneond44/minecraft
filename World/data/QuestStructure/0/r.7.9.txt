@@ -1,0 +1,10 @@
+ShrineSmallFire,3927,3937,4985,4995
+P_SmallShip,3889,3895,4967,4987
+BigClockworkSite,3581,3616,5072,5117
+SmallWoodenCottage1,3699,3710,4908,4914
+RLCraft_DecentWitch,3968,3968,5027,5027
+RLCraft_UndergroundRuin2,3963,3973,5022,5029
+RLCraft_DecentCaveSpider,3759,3759,4776,4776
+RLCraft_UndergroundRuin2,3754,3764,4771,4778
+ShrineSmallWater,3807,3815,4752,4760
+ShrineSmallFire,3836,3846,4677,4687

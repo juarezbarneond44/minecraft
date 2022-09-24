@@ -369,3 +369,5 @@ MesoMazePath,-158,-156,2000,2002
 MesoMazePath,-158,-156,1997,1999
 MesoMazePath,-158,-156,1994,1996
 SnakeTemple,-197,-151,1983,2013
+RLCraft_DecentWitch,-508,-508,1666,1666
+RLCraft_UndergroundRuin2,-510,-503,1661,1671

@@ -1,0 +1,17 @@
+UndergroundTreeoid,4579,4605,6248,6271
+RLCraft_UndergroundFarm,4455,4497,6199,6242
+RLCraft_DecentSpider,4414,4414,6195,6195
+RLCraft_UndergroundRuin3,4408,4416,6192,6200
+RLCraft_DecentSkeleton,4210,4210,6271,6271
+RLCraft_UndergroundRuin3,4207,4215,6265,6273
+DinosaurSkull,4285,4304,6358,6369
+RLCraft_DecentCaveSpider,4392,4392,6408,6408
+RLCraft_UndergroundRuin3,4386,4394,6405,6413
+RLCraft_DecentZombie,4279,4279,6471,6471
+RLCraft_UndergroundRuin3,4276,4284,6469,6477
+StoneIceBoulder2,4133,4142,6383,6392
+StoneIceBoulder2,4102,4111,6383,6392
+StoneIceBoulder2,4099,4108,6234,6243
+PeacefulCrypt,4200,4224,6527,6543
+StoneIceBoulder1,4110,4120,6598,6608
+StoneIceBoulder2,4419,4428,6586,6595

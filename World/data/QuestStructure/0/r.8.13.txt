@@ -1,0 +1,2 @@
+StoneIceBoulder1,4123,4133,6716,6726
+ShrineSmallFire,4391,4401,6787,6797

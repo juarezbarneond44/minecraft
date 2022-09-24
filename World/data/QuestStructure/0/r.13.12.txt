@@ -19,3 +19,11 @@ ShrineSmallAir,7112,7120,6520,6528
 RLCraft_SmallUndergroundSkeleton,6933,6941,6382,6390
 StonePlantMound,7130,7135,6506,6511
 P_WizardTower,7091,7121,6348,6378
+RLCraft_FriendlyOutpost,7025,7064,6307,6375
+RLCraft_BasicSpider,7015,7015,6267,6267
+RLCraft_UndergroundRuin1,7012,7021,6264,6273
+RLCraft_BasicSpider,7032,7032,6256,6256
+RLCraft_UndergroundRuin1,7029,7038,6253,6262
+StonePlantBoulder,7151,7161,6213,6223
+ShrineSmallAir,7062,7070,6169,6177
+RLCraft_SmallUndergroundSkeleton,7113,7121,6144,6152

@@ -146,3 +146,4 @@ RLCraft_UndergroundRuin1,1969,1978,-90,-81
 RLCraft_SmallUndergroundSkeleton,1814,1822,-71,-63
 StonePlantMound,2005,2010,-74,-69
 ShrineSmallWater,1703,1711,-46,-38
+StonePlantBoulder,1596,1606,-512,-502

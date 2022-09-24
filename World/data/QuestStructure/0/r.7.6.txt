@@ -1,0 +1,14 @@
+RLCraft_DecentSkeleton,3767,3767,3529,3529
+RLCraft_UndergroundRuin3,3764,3772,3523,3531
+WoodThornBig,3811,3824,3476,3489
+RLCraft_BasicWitch,3839,3839,3457,3457
+RLCraft_UndergroundRuin1,3833,3842,3451,3460
+UndergroundCrypt,3888,3902,3413,3441
+RLCraft_DecentCaveSpider,3682,3682,3393,3393
+RLCraft_UndergroundRuin2,3677,3684,3388,3398
+StonePlantMound2,3794,3806,3364,3377
+RLCraft_BasicSkeleton,3827,3827,3236,3236
+RLCraft_UndergroundRuin1,3821,3830,3230,3239
+StonePlantMound3,4076,4087,3425,3434
+RLCraft_DecentCaveSpider,4020,4020,3238,3238
+RLCraft_UndergroundRuin2,4015,4025,3233,3240

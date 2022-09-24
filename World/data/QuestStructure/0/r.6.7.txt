@@ -1,0 +1,10 @@
+AbandonedWoodTower,3568,3598,3962,3998
+RLCraft_BasicZombie,3526,3526,3975,3975
+RLCraft_UndergroundRuin1,3523,3532,3972,3981
+ShrineSmallWater,3504,3512,4030,4038
+RLCraft_BasicCaveSpider,3392,3392,3715,3715
+RLCraft_UndergroundRuin1,3386,3395,3712,3721
+RLCraft_DecentSkeleton,3292,3292,3707,3707
+RLCraft_UndergroundRuin2,3287,3297,3705,3712
+RLCraft_BasicZombie,3275,3275,3677,3677
+RLCraft_UndergroundRuin1,3272,3281,3671,3680

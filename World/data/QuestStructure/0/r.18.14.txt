@@ -1,0 +1,6 @@
+VillageHouseRich,9382,9401,7398,7413
+VillageLargeLibrary,9404,9424,7398,7417
+RLCraft_Vineyard,9417,9437,7368,7396
+RLCraft_UndergroundFarm,9428,9471,7358,7400
+RLCraft_DecentCaveSpider,9602,9602,7334,7334
+RLCraft_UndergroundRuin2,9600,9607,7329,7339

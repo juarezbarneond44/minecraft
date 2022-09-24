@@ -1,0 +1,15 @@
+StonePlantBoulder,4604,4614,2946,2956
+RLCraft_BasicSpider,4686,4686,3060,3060
+RLCraft_UndergroundRuin1,4683,4692,3054,3063
+RLCraft_BasicZombie,4653,4653,2943,2943
+RLCraft_UndergroundRuin1,4650,4659,2937,2946
+StonePlantMound1,4620,4626,2929,2935
+StonePlantBoulder,4809,4819,2916,2926
+StoneBoulder,4669,4678,2874,2883
+RLCraft_SmallUndergroundSkeleton,4789,4797,2865,2873
+ElvenPond,4803,4833,2841,2870
+RLCraft_FriendlyOutpost,4710,4749,2814,2882
+StoneLeafMound,4763,4770,2844,2853
+StoneBoulder,4606,4615,2662,2671
+StonePlantMound,4630,4635,2703,2708
+StoneLeafMound,4640,4647,2737,2746

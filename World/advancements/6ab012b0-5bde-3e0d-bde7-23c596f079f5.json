@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-09-11 23:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-09-05 20:43:50 +0000"
@@ -349,6 +355,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2022-09-12 10:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-09-05 20:21:46 +0000"
@@ -396,6 +408,12 @@
       "carrot": "2022-09-05 21:18:13 +0000"
     },
     "done": false
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "1": "2022-09-13 01:16:15 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -480,6 +498,15 @@
       "has_planks": "2022-09-06 01:05:54 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "shambler_twisted": "2022-09-12 09:41:15 +0000",
+      "scuttler": "2022-09-12 10:06:06 +0000",
+      "slime_defiled": "2022-09-12 09:56:27 +0000",
+      "host": "2022-09-12 09:56:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -598,6 +625,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-05 23:08:21 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
+    "criteria": {
+      "has_material": "2022-09-12 10:15:46 +0000"
     },
     "done": true
   },
@@ -818,6 +851,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks": {
+    "criteria": {
+      "has_material": "2022-09-12 10:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-09-06 01:05:54 +0000"
@@ -866,9 +905,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
+    "criteria": {
+      "has_material": "2022-09-12 10:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-05 23:08:21 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_mossy": {
+    "criteria": {
+      "has_material": "2022-09-12 10:15:46 +0000"
     },
     "done": true
   },
@@ -1043,9 +1094,27 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2022-09-12 10:15:46 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_mossy": {
+    "criteria": {
+      "has_material": "2022-09-12 10:15:46 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/diamond_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2022-09-06 01:50:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2022-09-12 11:03:31 +0000"
     },
     "done": true
   },
@@ -1118,6 +1187,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-05 23:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2022-09-11 23:36:01 +0000"
     },
     "done": true
   },
@@ -1547,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-09-11 23:23:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-09-05 22:51:28 +0000"
@@ -1610,6 +1691,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-04 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2022-09-13 01:16:15 +0000"
     },
     "done": true
   },
@@ -1682,6 +1769,12 @@
   "mujmajnkraftsbettersurvival:gold_battleaxe": {
     "criteria": {
       "has_gold": "2022-09-05 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-09-11 23:23:29 +0000"
     },
     "done": true
   },
@@ -2032,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-09-11 23:36:01 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/scarlite_razor": {
     "criteria": {
       "has_material": "2022-09-10 10:43:10 +0000"
@@ -2128,6 +2227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-09-11 23:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2022-09-06 00:58:50 +0000"
@@ -2167,6 +2272,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-09-06 01:56:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2022-09-13 01:16:12 +0000"
     },
     "done": true
   },

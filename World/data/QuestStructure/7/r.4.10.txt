@@ -1,0 +1,6 @@
+StonePlantMound4,2249,2256,5121,5128
+RLCraft_DecentSpider,2328,2328,5123,5123
+RLCraft_UndergroundRuin3,2325,2333,5117,5125
+SmallWoodenCottage,2317,2328,5139,5147
+StoneLeafMound,2160,2169,5147,5154
+StonePlantMound,2080,2085,5141,5146

@@ -1,0 +1,10 @@
+RLCraft_DecentSkeleton,5713,5713,4048,4048
+RLCraft_UndergroundRuin2,5708,5715,4043,4053
+SmallWoodenCottage,5875,5886,4049,4057
+RLCraft_DecentSpider,5880,5880,3999,3999
+RLCraft_UndergroundRuin2,5875,5885,3994,4001
+RLCraft_UndergroundFarm,5940,5983,3965,4007
+VillageSavannaChandlery,5917,5927,3847,3858
+VillageSavannaLibrary,5889,5899,3847,3858
+RLCraft_BasicSpider,5968,5968,3848,3848
+RLCraft_UndergroundRuin1,5962,5971,3842,3851

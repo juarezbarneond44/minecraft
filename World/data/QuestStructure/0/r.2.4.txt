@@ -1,0 +1,2 @@
+StoneMazePathBig,1149,1157,2044,2052
+StoneMazeFountain,1158,1166,2044,2052

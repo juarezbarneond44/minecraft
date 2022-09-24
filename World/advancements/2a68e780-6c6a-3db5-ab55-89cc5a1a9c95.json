@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2022-09-12 05:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-09-05 01:00:44 +0000"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-09-12 07:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-04 23:55:36 +0000"
@@ -140,6 +152,12 @@
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
       "has_mossy_cobblestone": "2022-09-05 01:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2022-09-12 17:29:29 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2022-09-12 05:20:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-09-06 06:56:51 +0000"
@@ -330,6 +354,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-09-10 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-09-12 07:49:50 +0000"
     },
     "done": true
   },
@@ -378,6 +408,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2022-09-05 00:57:10 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2022-09-12 17:28:58 +0000"
     },
     "done": true
   },
@@ -465,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2022-09-12 05:20:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-05 21:01:01 +0000"
@@ -498,6 +540,18 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2022-09-06 04:42:28 +0000"
+    },
+    "done": true
+  },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2022-09-12 06:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2022-09-12 05:20:28 +0000"
     },
     "done": true
   },
@@ -687,6 +741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2022-09-12 20:08:07 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
       "criteria_0": "2022-09-10 05:57:31 +0000"
@@ -741,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-09-12 07:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-05 21:01:01 +0000"
@@ -749,13 +815,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2022-09-12 06:10:47 +0000",
+      "stray": "2022-09-12 06:06:21 +0000",
+      "wither_skeleton": "2022-09-12 06:09:07 +0000",
       "zombie_villager": "2022-09-05 21:17:39 +0000",
       "slime": "2022-09-09 07:21:08 +0000",
+      "vindicator": "2022-09-12 18:54:44 +0000",
       "skeleton": "2022-09-05 00:15:21 +0000",
+      "husk": "2022-09-12 06:08:45 +0000",
       "zombie": "2022-09-05 03:13:50 +0000",
       "cave_spider": "2022-09-06 06:24:29 +0000",
+      "witch": "2022-09-12 17:19:31 +0000",
       "spider": "2022-09-06 05:20:00 +0000",
-      "creeper": "2022-09-06 05:54:18 +0000"
+      "creeper": "2022-09-06 05:54:18 +0000",
+      "enderman": "2022-09-12 06:03:17 +0000"
     },
     "done": false
   },
@@ -768,6 +841,24 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2022-09-09 06:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-12 06:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-09-12 07:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2022-09-12 17:29:29 +0000"
     },
     "done": true
   },
@@ -816,6 +907,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-09-05 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2022-09-12 17:07:23 +0000"
     },
     "done": true
   },
@@ -879,6 +976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2022-09-12 05:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-05 21:01:01 +0000"
@@ -894,6 +997,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-09-05 00:00:06 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2022-09-12 17:28:58 +0000"
     },
     "done": true
   },
@@ -938,6 +1047,17 @@
       "has_lapis": "2022-09-05 03:24:46 +0000"
     },
     "done": true
+  },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "freeze": "2022-09-12 05:15:17 +0000",
+      "ward": "2022-09-12 05:12:15 +0000",
+      "mine": "2022-09-12 05:15:09 +0000",
+      "magic_missile": "2022-09-12 05:12:23 +0000",
+      "evade": "2022-09-12 05:12:09 +0000",
+      "smoke_bomb": "2022-09-12 05:15:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
@@ -1233,6 +1353,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2022-09-12 17:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_planks": "2022-09-09 06:27:44 +0000"
@@ -1302,6 +1428,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-09-05 00:58:20 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2022-09-12 05:14:55 +0000"
     },
     "done": true
   },
@@ -1401,6 +1533,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2022-09-12 17:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2022-09-06 06:14:06 +0000"
@@ -1419,9 +1557,27 @@
     },
     "done": true
   },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2022-09-12 17:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-09-06 04:48:08 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2022-09-12 05:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-12 06:01:35 +0000"
     },
     "done": true
   },
@@ -1466,6 +1622,12 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2022-09-05 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2022-09-12 18:53:28 +0000"
     },
     "done": true
   },
@@ -1583,6 +1745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2022-09-12 05:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2022-09-04 23:55:19 +0000"
@@ -1604,6 +1772,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-05 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2022-09-12 17:28:58 +0000"
     },
     "done": true
   },
@@ -1673,6 +1847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2022-09-12 05:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2022-09-09 06:27:44 +0000"
@@ -1706,6 +1886,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-09-05 01:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-12 06:01:35 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2022-09-12 17:28:58 +0000"
     },
     "done": true
   },

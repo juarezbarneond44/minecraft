@@ -1,0 +1,13 @@
+StonePlantMound3,5112,5121,5112,5123
+StonePlantMound3,4964,4973,5063,5074
+StonePlantMound4,4958,4965,5062,5069
+RLCraft_DecentSkeleton,5078,5078,5077,5077
+RLCraft_UndergroundRuin2,5076,5083,5072,5082
+RLCraft_SmallUndergroundSkeleton,4973,4981,5053,5061
+RLCraft_BasicSpider,5067,5067,5032,5032
+RLCraft_UndergroundRuin1,5061,5070,5026,5035
+DinosaurSkeleton,4813,4822,5021,5067
+SmallAbandonedOutpost,5076,5098,4891,4921
+ShrineSmallAir,4733,4741,5104,5112
+P_Crater,4947,5023,4701,4784
+SpiderPit,5044,5054,4629,4638

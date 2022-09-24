@@ -1,0 +1,3 @@
+DinosaurSkull,-3552,-3533,4380,4391
+StoneIceBoulder2,-3583,-3574,4353,4362
+StoneIceBoulder3,-3480,-3470,4254,4264

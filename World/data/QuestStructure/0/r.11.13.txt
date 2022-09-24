@@ -4,3 +4,12 @@ StoneBoulder,6026,6035,6700,6709
 ShrineSmallFire,5979,5989,6743,6753
 RLCraft_BasicSkeleton,5986,5986,6809,6809
 RLCraft_UndergroundRuin1,5983,5992,6803,6812
+StoneBoulder,6099,6108,6953,6962
+StonePlantBoulder,6099,6109,6905,6915
+RLCraft_BasicCaveSpider,6060,6060,7135,7135
+RLCraft_UndergroundRuin1,6057,6066,7132,7141
+StonePlantMound3,6038,6049,6966,6975
+ClayWaterMound1,6012,6023,6900,6910
+StonePlantMound2,6002,6014,7109,7122
+StonePlantBoulder,5965,5975,7132,7142
+PeacefulCrypt,5876,5892,7102,7126

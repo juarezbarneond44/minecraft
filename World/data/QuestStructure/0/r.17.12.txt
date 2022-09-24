@@ -1,0 +1,3 @@
+StonePlantMound3,8710,8719,6411,6422
+ClayWaterMound1,8716,8726,6360,6371
+StonePlantBoulder,8715,8725,6472,6482
