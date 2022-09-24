@@ -1,0 +1,6 @@
+MeteorSite,7169,7199,4914,4929
+StonePlantMound2,7311,7323,5004,5017
+StonePlantMound,7361,7366,4888,4893
+RLCraft_SmallUndergroundSkeleton,7547,7555,5100,5108
+RLCraft_BasicCaveSpider,7573,7573,5073,5073
+RLCraft_UndergroundRuin1,7570,7579,5067,5076

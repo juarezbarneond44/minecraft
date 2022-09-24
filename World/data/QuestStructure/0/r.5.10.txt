@@ -1,0 +1,3 @@
+StonePlantMound,2685,2690,5151,5156
+DinosaurSkeleton,2618,2664,5201,5210
+StonePlantMound,2803,2808,5197,5202

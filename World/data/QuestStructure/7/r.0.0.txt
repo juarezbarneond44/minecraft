@@ -1,0 +1,8 @@
+StonePlantBoulder,88,98,53,63
+RLCraft_DecentSpider,89,89,44,44
+RLCraft_UndergroundRuin3,86,94,42,50
+StonePlantMound2,67,80,112,124
+RLCraft_DecentZombie,134,134,33,33
+RLCraft_UndergroundRuin3,131,139,27,35
+RLCraft_DecentCaveSpider,128,128,8,8
+RLCraft_UndergroundRuin2,123,133,6,13

@@ -1,0 +1,2 @@
+StonePlantMound3,952,961,4395,4406
+StoneIceBoulder,1004,1013,4565,4575

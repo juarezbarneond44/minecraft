@@ -1,0 +1,6 @@
+RLCraft_BasicWitch,8217,8217,6731,6731
+RLCraft_UndergroundRuin1,8214,8223,6728,6737
+WoodWallRemains,8204,8232,6988,6996
+RLCraft_DecentSkeleton,8569,8569,6944,6944
+RLCraft_UndergroundRuin3,8567,8575,6941,6949
+StonePlantMound1,8579,8585,6969,6975

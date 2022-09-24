@@ -1,0 +1,4 @@
+RLCraft_BasicWitch,5712,5712,4587,4587
+RLCraft_UndergroundRuin1,5706,5715,4581,4590
+StonePlantBoulder,5795,5805,4575,4585
+StonePlantBoulder,5881,5891,4566,4576

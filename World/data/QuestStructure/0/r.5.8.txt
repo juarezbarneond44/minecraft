@@ -1,0 +1,12 @@
+VillageMarketplace,2566,2580,4593,4607
+MeteorSite,2567,2582,4534,4564
+UndergroundCrypt,2712,2740,4501,4515
+DesertHut,2751,2761,4603,4612
+DesertHut,2766,2776,4558,4567
+DinosaurSkull,2783,2802,4526,4537
+UndergroundTreeoid,2833,2859,4459,4482
+RLCraft_DecentSkeleton,2932,2932,4451,4451
+RLCraft_UndergroundRuin2,2930,2937,4446,4456
+ShrineSmallAir,2872,2880,4419,4427
+RLCraft_DecentSpider,3036,3036,4544,4544
+RLCraft_UndergroundRuin2,3031,3038,4539,4549

@@ -1,0 +1,6 @@
+StonePlantMound,1737,1742,3061,3066
+StonePlantMound4,1762,1769,3053,3060
+StonePlantBoulder,1827,1837,3047,3057
+StoneLeafMound,1949,1956,3022,3031
+ClayWaterMound1,2001,2011,3048,3059
+StonePlantMound,2027,2032,3045,3050

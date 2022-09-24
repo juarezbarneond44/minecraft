@@ -1,2 +1,14 @@
 NetherThorn4,1102,1122,368,390
 NetherThorn,1056,1074,335,361
+NetherThorn5,1024,1049,87,98
+NetherThorn1,1040,1059,-56,-40
+NetherThorn5,1076,1101,-3,8
+NetherThorn,1080,1106,206,224
+NetherThorn1,1179,1198,217,233
+NetherThorn2,1238,1251,167,179
+NetherThorn3,1210,1228,1,27
+NetherThorn4,1110,1132,-54,-34
+NetherThorn5,1132,1157,-76,-65
+NetherThorn2,1141,1153,-90,-77
+NetherThorn5,1016,1041,-101,-90
+NetherThorn2,1143,1156,-134,-122

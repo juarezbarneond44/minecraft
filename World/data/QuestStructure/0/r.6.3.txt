@@ -1,0 +1,10 @@
+ChurchGraveyardRuins,3495,3538,2017,2064
+StonePlantMound3,3318,3329,1988,1997
+ShrineSmallAir,3389,3397,1993,2001
+SmallWoodenCottage1,3463,3474,2000,2006
+RLCraft_DecentSpider,3450,3450,1991,1991
+RLCraft_UndergroundRuin3,3447,3455,1985,1993
+StonePlantMound1,3329,3335,1966,1972
+ClayWaterMound,3367,3374,1940,1948
+ShrineSmallAir,3257,3265,1916,1924
+ClayWaterMound,3377,3384,1901,1909
