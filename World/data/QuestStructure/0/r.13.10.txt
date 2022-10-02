@@ -180,3 +180,4 @@ RLCraft_Vineyard,7056,7076,5607,5635
 RLCraft_DecentZombie,7091,7091,5616,5616
 RLCraft_UndergroundRuin3,7085,7093,5613,5621
 DinosaurSkeleton,7127,7173,5520,5529
+StonePlantMound4,6656,6663,5414,5421

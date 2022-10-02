@@ -21,3 +21,6 @@ NetherThorn4,727,749,11,31
 NetherThorn,956,982,76,94
 NetherThorn3,966,992,221,239
 NetherThorn2,1003,1016,123,135
+NetherThorn2,848,860,-138,-125
+NetherThorn5,794,819,-204,-193
+NetherThorn2,967,980,-398,-386

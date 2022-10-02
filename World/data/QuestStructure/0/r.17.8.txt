@@ -1,0 +1,13 @@
+RLCraft_UndergroundFarm,9122,9164,4420,4463
+FallenPalmTree,9019,9029,4298,4302
+RLCraft_SmallUndergroundSkeleton,8994,9002,4232,4240
+RLCraft_DecentSpider,8996,8996,4437,4437
+RLCraft_UndergroundRuin3,8990,8998,4432,4440
+RLCraft_BasicCaveSpider,8934,8934,4337,4337
+RLCraft_UndergroundRuin1,8931,8940,4334,4343
+SmallOutpost,8873,8895,4365,4395
+ShrineSmallFire,8849,8859,4364,4374
+BlazeSpawnerCrystal,9037,9043,4537,4543
+RLCraft_DecentSkeleton,8763,8763,4523,4523
+RLCraft_UndergroundRuin2,8761,8768,4518,4528
+StonePlantMound1,8731,8737,4356,4362

@@ -3,3 +3,5 @@ StonePlantMound2,7747,7759,5594,5607
 StonePlantBoulder,7677,7687,5442,5452
 RLCraft_BasicZombie,7731,7731,5461,5461
 RLCraft_UndergroundRuin1,7728,7737,5458,5467
+StonePlantMound4,7792,7799,5588,5595
+StoneBoulder,7804,7813,5612,5621

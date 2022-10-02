@@ -4,3 +4,9 @@ WoodWallRemains,8204,8232,6988,6996
 RLCraft_DecentSkeleton,8569,8569,6944,6944
 RLCraft_UndergroundRuin3,8567,8575,6941,6949
 StonePlantMound1,8579,8585,6969,6975
+StonePlantBoulder,8619,8629,6821,6831
+RLCraft_DecentSpider,8373,8373,6740,6740
+RLCraft_UndergroundRuin2,8368,8378,6738,6745
+UnnaturalCrater,8484,8524,6651,6691
+StonePlantMound,8499,8504,6773,6778
+StoneLeafMound,8533,8540,6766,6775

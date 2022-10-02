@@ -1,0 +1,9 @@
+RLCraft_DecentSpider,-4284,-4284,4339,4339
+RLCraft_UndergroundRuin3,-4287,-4279,4333,4341
+DinosaurSkull,-4311,-4292,4380,4391
+StoneIceBoulder2,-4152,-4143,4347,4356
+RLCraft_4Towers,-4178,-4126,4219,4279
+ShrineSmallAir,-4180,-4172,4208,4216
+RLCraft_SmallUndergroundSkeleton,-4255,-4247,4173,4181
+StoneIceBoulder,-4432,-4422,4203,4212
+StoneIceBoulder3,-4302,-4292,4184,4194

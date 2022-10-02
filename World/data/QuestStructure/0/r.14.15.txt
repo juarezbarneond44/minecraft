@@ -1,0 +1,13 @@
+RLCraft_BasicZombie,7430,7430,7726,7726
+RLCraft_UndergroundRuin1,7424,7433,7720,7729
+RLCraft_DecentWitch,7451,7451,7753,7753
+RLCraft_UndergroundRuin3,7446,7454,7747,7755
+StonePlantMound4,7420,7427,7816,7823
+StoneBoulder,7197,7206,7788,7797
+ShrineSmallAir,7273,7281,7878,7886
+RLCraft_SmallUndergroundSkeleton,7197,7205,7898,7906
+RLCraft_BasicSpider,7384,7384,7895,7895
+RLCraft_UndergroundRuin1,7378,7387,7892,7901
+RLCraft_DecentZombie,7476,7476,7962,7962
+RLCraft_UndergroundRuin3,7470,7478,7959,7967
+ShrineSmallFire,7215,7225,8022,8032

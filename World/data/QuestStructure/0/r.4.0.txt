@@ -14,3 +14,16 @@ StonePlantBoulder,2414,2424,193,203
 StonePlantMound,2076,2081,207,212
 P_WitchDungeon,2267,2301,205,222
 RLCraft_LargeUndergroundTown,2487,2624,146,259
+RLCraft_DecentCaveSpider,2397,2397,234,234
+RLCraft_UndergroundRuin3,2392,2400,228,236
+RLCraft_BasicZombie,2178,2178,271,271
+RLCraft_UndergroundRuin1,2172,2181,265,274
+StonePlantMound4,2216,2223,247,254
+StonePlantMound1,2380,2386,268,274
+StonePlantMound1,2335,2341,279,285
+RLCraft_BasicWitch,2462,2462,352,352
+RLCraft_UndergroundRuin1,2459,2468,346,355
+RLCraft_DecentZombie,2196,2196,423,423
+RLCraft_UndergroundRuin3,2191,2199,421,429
+RLCraft_UndergroundFarm,2416,2458,422,465
+RLCraft_SmallUndergroundSkeleton,2445,2453,472,480

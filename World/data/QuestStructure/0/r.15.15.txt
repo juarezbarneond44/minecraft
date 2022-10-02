@@ -1,0 +1,8 @@
+ShrineSmallFire,7726,7736,7788,7798
+StonePlantMound4,8182,8189,7957,7964
+VillageMarketplace,8173,8187,8002,8016
+P_VillageInn,8172,8181,8017,8028
+RLCraft_DecentSkeleton,7973,7973,7943,7943
+RLCraft_UndergroundRuin3,7967,7975,7940,7948
+RLCraft_Vineyard,8144,8172,8030,8050
+ShrineSmallWater,8136,8144,8136,8144

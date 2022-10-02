@@ -1,10 +1,5 @@
-[03:48:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Started: Seastorm In Dimension: 0 Duration: 60secs
-[03:49:16] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Finished: Seastorm
-[12:08:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Started: Aberrant Assimilation In Dimension: 0 Duration: 60secs
-[12:09:07] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Finished: Aberrant Assimilation
-[17:28:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Started: Poop Party In Dimension: 0 Duration: 60secs
-[17:29:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Finished: Poop Party
-[17:54:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[17:54:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[17:54:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[17:54:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[03:42:39] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Started: Poop Party In Dimension: 0 Duration: 60secs
+[03:43:39] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Finished: Poop Party
+[12:35:17] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Started: Bamstorm In Dimension: 0 Duration: 60secs
+[12:36:17] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Mob Event Finished: Bamstorm
+[19:26:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server

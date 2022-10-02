@@ -1,0 +1,11 @@
+RLCraft_DecentSkeleton,9236,9236,6200,6200
+RLCraft_UndergroundRuin2,9234,9241,6195,6205
+VillageWoodMill,9261,9274,6230,6246
+SeasonsGreenhouse,9265,9275,6260,6272
+P_VillageFarmhouse,9265,9277,6274,6286
+VillageInn,9236,9256,6288,6315
+P_VillageHouse2,9286,9303,6251,6268
+RLCraft_DecentWitch,9273,9273,6324,6324
+RLCraft_UndergroundRuin3,9271,9279,6319,6327
+MeteorSite,9453,9483,6288,6303
+ShrineSmallEarth,9427,9439,6403,6415

@@ -53,3 +53,12 @@ RLCraft_UndergroundRuin1,4671,4680,6220,6229
 RLCraft_SmallUndergroundSkeleton,4754,4762,6232,6240
 DinosaurSkeleton,4809,4855,6238,6247
 StoneIceBoulder3,4659,4669,6270,6280
+RLCraft_DecentZombie,4869,4869,6283,6283
+RLCraft_UndergroundRuin3,4863,4871,6280,6288
+WoodWallRemains,5005,5033,6311,6319
+MeteorSite,5040,5055,6346,6376
+RLCraft_SmallUndergroundSkeleton,4974,4982,6393,6401
+RLCraft_DecentZombie,5116,5116,6188,6188
+RLCraft_UndergroundRuin2,5114,5121,6183,6193
+StoneIceBoulder2,4880,4889,6479,6488
+SmallAbandonedMine,4685,4710,6384,6399

@@ -30,3 +30,6 @@ SeasonsGreenhouse,8591,8601,6406,6418
 StonePlantMound1,8637,8643,6389,6395
 StonePlantMound4,8634,8641,6361,6368
 RLCraft_UndergroundFarm,8668,8711,6302,6344
+DesertBeacon,8429,8435,6645,6651
+RLCraft_DecentZombie,8640,8640,6614,6614
+RLCraft_UndergroundRuin2,8635,8645,6609,6616

@@ -1,1 +1,12 @@
 UndergroundCultChamber,7997,8039,7270,7302
+RLCraft_DecentSpider,7934,7934,7384,7384
+RLCraft_UndergroundRuin3,7929,7937,7382,7390
+RLCraft_DecentZombie,7821,7821,7330,7330
+RLCraft_UndergroundRuin2,7816,7826,7325,7332
+RLCraft_DecentSkeleton,7792,7792,7445,7445
+RLCraft_UndergroundRuin2,7787,7794,7440,7450
+RLCraft_BasicCaveSpider,7688,7688,7494,7494
+RLCraft_UndergroundRuin1,7682,7691,7488,7497
+ShrineSmallWater,7816,7824,7669,7677
+MeteorSite,7888,7918,7669,7684
+RLCraft_SmallUndergroundSkeleton,8085,8093,7657,7665

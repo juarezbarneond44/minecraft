@@ -4,3 +4,12 @@ RLCraft_Vineyard,9417,9437,7368,7396
 RLCraft_UndergroundFarm,9428,9471,7358,7400
 RLCraft_DecentCaveSpider,9602,9602,7334,7334
 RLCraft_UndergroundRuin2,9600,9607,7329,7339
+P_VillageHouse,9359,9368,7440,7451
+VillageGuardTower,9354,9366,7420,7432
+ThreeTowers,9368,9400,7506,7537
+VillageForgeLarge,9370,9386,7419,7431
+VillageWoodMill,9387,9400,7462,7478
+P_VillageFarmhouse,9385,9397,7485,7497
+VillageInn,9409,9429,7462,7489
+ClayWaterMound,9436,9444,7428,7435
+UndergroundTreeoid,9422,9448,7635,7658

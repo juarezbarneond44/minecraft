@@ -24,3 +24,17 @@ RLCraft_SmallUndergroundSkeleton,6712,6720,7064,7072
 SmallWoodenCottage,6852,6860,6754,6765
 StonePlantMound,6886,6891,6934,6939
 StonePlantMound4,6907,6914,6886,6893
+SpiderPit,7034,7043,7064,7074
+StonePlantMound,7024,7029,7032,7037
+RLCraft_UndergroundRuin1,7163,7172,7017,7026
+StonePlantMound4,7075,7082,7011,7018
+StoneBoulder,7037,7046,6984,6993
+RLCraft_PlainsCamp,7028,7067,6974,7020
+RLCraft_SmallUndergroundSkeleton,6991,6999,6979,6987
+StoneBoulder,6964,6973,6948,6957
+StonePlantMound3,6946,6955,6945,6956
+ClayWaterMound1,6959,6970,6909,6919
+StonePlantMound1,6979,6985,6894,6900
+BlazeSpawnerCrystal,7062,7068,6883,6889
+StonePlantMound,7063,7068,6869,6874
+StonePlantMound4,7109,7116,6844,6851

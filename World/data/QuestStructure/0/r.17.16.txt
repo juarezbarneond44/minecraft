@@ -1,0 +1,15 @@
+UndergroundTreeoid,9045,9071,8243,8266
+SmallClockworkSite,9016,9038,8283,8302
+RLCraft_DecentSpider,9043,9043,8504,8504
+RLCraft_UndergroundRuin3,9041,9049,8499,8507
+VillageLargeLibrary,9011,9030,8490,8510
+VillageMarketplace,9046,9060,8527,8541
+P_VillageLibrary,9009,9028,8528,8544
+P_VillageInn,9052,9063,8550,8559
+P_VillageFarmhouse,9023,9035,8550,8562
+SeasonsGreenhouse,9067,9077,8550,8562
+RLCraft_LargeUndergroundTown,8814,8951,8432,8545
+VillageWoodMill,9046,9062,8560,8573
+RLCraft_SmallUndergroundSkeleton,9105,9113,8594,8602
+FallenPalmTree,8902,8906,8582,8592
+DesertBeacon,8957,8963,8648,8654

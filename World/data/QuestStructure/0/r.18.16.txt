@@ -1,0 +1,4 @@
+RLCraft_DecentSkeleton,9243,9243,8327,8327
+RLCraft_UndergroundRuin3,9241,9249,8322,8330
+DesertWatchtower,9260,9270,8422,8432
+RLCraft_SmallUndergroundSkeleton,9384,9392,8402,8410

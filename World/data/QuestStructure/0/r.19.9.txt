@@ -1,0 +1,12 @@
+RLCraft_DecentSpider,10144,10144,5115,5115
+RLCraft_UndergroundRuin3,10141,10149,5113,5121
+ShrineSmallFire,10205,10215,5098,5108
+StonePlantMound2,9939,9952,5108,5120
+StonePlantMound1,9795,9801,5038,5044
+RLCraft_DecentWitch,9850,9850,4814,4814
+RLCraft_UndergroundRuin2,9845,9855,4812,4819
+RLCraft_SmallUndergroundSkeleton,9842,9850,5084,5092
+P_IslandCity,9778,10112,4786,5092
+RLCraft_DecentZombie,9941,9941,4732,4732
+RLCraft_UndergroundRuin3,9936,9944,4730,4738
+ShrineSmallAir,9979,9987,4665,4673

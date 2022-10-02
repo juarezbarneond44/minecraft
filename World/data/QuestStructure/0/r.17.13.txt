@@ -1,3 +1,5 @@
 SmallWoodenCottage,8717,8728,6942,6950
 StonePlantMound2,8740,8753,7006,7018
 StonePlantMound4,8743,8750,6974,6981
+VillageWoodMill,8707,8720,6838,6854
+RLCraft_Vineyard,8748,8776,6838,6858

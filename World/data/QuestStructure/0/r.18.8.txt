@@ -1,0 +1,10 @@
+RLCraft_DecentZombie,9582,9582,4536,4536
+RLCraft_UndergroundRuin3,9577,9585,4530,4538
+RLCraft_UndergroundFarm,9701,9743,4329,4372
+UndergroundCultChamber,9666,9698,4319,4361
+ShrineSmallWater,9394,9402,4526,4534
+VillageInn,9319,9339,4201,4228
+UndergroundTreeoid,9294,9317,4276,4302
+VillageLargeLibrary,9307,9326,4167,4187
+P_VillageBlacksmith,9335,9349,4163,4196
+RLCraft_Vineyard,9270,9298,4201,4221

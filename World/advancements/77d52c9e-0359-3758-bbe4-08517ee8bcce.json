@@ -198,6 +198,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-09-25 20:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-09-04 04:43:18 +0000"
@@ -404,6 +410,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "desert_defiled": "2022-09-25 17:50:49 +0000",
       "hills_defiled": "2022-09-10 01:40:19 +0000",
       "swamp_defiled": "2022-09-12 09:42:52 +0000",
       "plains_defiled": "2022-09-16 12:26:25 +0000"
@@ -759,6 +766,7 @@
     "criteria": {
       "zombie_pigman": "2022-09-09 06:18:17 +0000",
       "stray": "2022-09-12 06:05:07 +0000",
+      "shulker": "2022-09-25 19:45:50 +0000",
       "wither_skeleton": "2022-09-09 06:37:04 +0000",
       "zombie_villager": "2022-09-05 04:55:18 +0000",
       "magma_cube": "2022-09-09 06:39:48 +0000",
@@ -974,6 +982,12 @@
   "twilightforest:alt/entities/yeti": {
     "criteria": {
       "hurt": "2022-09-14 09:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-09-25 19:17:12 +0000"
     },
     "done": true
   },
@@ -1775,6 +1789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-09-25 19:45:52 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/scarlite_razor": {
     "criteria": {
       "has_material": "2022-09-11 02:03:58 +0000"
@@ -1838,6 +1858,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2022-09-07 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-09-26 03:35:03 +0000"
     },
     "done": true
   },
@@ -3375,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-09-25 19:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2022-09-09 06:40:12 +0000"
@@ -3537,6 +3569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2022-09-25 19:42:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/twilight_swamp": {
     "criteria": {
       "0": "2022-09-14 10:46:56 +0000"
@@ -3693,6 +3731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2022-09-25 19:42:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/quest_grove": {
     "criteria": {
       "discover": "2022-09-15 05:08:53 +0000"
@@ -3720,6 +3764,12 @@
   "twilightforest:magic_map_focus": {
     "criteria": {
       "focus": "2022-09-14 08:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-09-25 19:17:12 +0000"
     },
     "done": true
   },

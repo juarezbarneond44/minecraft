@@ -79,3 +79,16 @@ ShrineSmallFire,7746,7756,5714,5724
 P_VillageFarmhouse,7750,7762,5812,5824
 VillageMarketplace,7718,7732,5830,5844
 VillageWoodMill,7750,7766,5835,5848
+VillageTriplets,7764,7778,5860,5874
+RLCraft_Vineyard,7785,7805,5877,5905
+RLCraft_DecentSpider,7909,7909,5821,5821
+RLCraft_UndergroundRuin3,7904,7912,5815,5823
+RLCraft_DecentCaveSpider,7850,7850,5910,5910
+RLCraft_UndergroundRuin3,7845,7853,5904,5912
+WoodWallRemains,8085,8113,5821,5829
+StoneBoulder,8125,8134,5859,5868
+ClayWaterMound1,8177,8188,5748,5758
+RLCraft_SmallUndergroundSkeleton,8185,8193,5805,5813
+RLCraft_PlainsCamp,8158,8197,5652,5698
+StonePlantMound4,8141,8148,5657,5664
+ClayWaterMound1,8101,8112,5638,5648

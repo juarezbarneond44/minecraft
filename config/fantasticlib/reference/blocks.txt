@@ -892,9 +892,6 @@ quark:dark_oak_button
 quark:grate
 quark:charcoal_block
 quark:blaze_rod
-quark:glowstone_dust_block
-quark:gunpowder_block
-quark:black_ash
 quark:chute
 quark:sugar_block
 quark:redstone_randomizer
@@ -904,6 +901,9 @@ quark:ender_watcher
 quark:redstone_inductor
 quark:obsidian_pressure_plate
 quark:rain_detector
+quark:glowstone_dust_block
+quark:gunpowder_block
+quark:black_ash
 betterquesting:submit_station
 classyhats:hat_stand
 twilightforest:twilight_log

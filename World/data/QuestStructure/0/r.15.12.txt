@@ -64,3 +64,7 @@ RLCraft_DesertTown,8153,8219,6438,6504
 RLCraft_SmallUndergroundSkeleton,8036,8044,6470,6478
 StoneLeafMound,8006,8013,6500,6509
 StonePlantMound3,8097,8108,6639,6648
+MysticalTree2,7778,7788,6645,6655
+StoneBoulder,7795,7804,6628,6637
+StonePlantMound2,7793,7805,6609,6622
+RLCraft_UndergroundFarm,7799,7842,6606,6648

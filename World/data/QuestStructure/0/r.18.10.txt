@@ -1,0 +1,8 @@
+PeacefulCrypt,9480,9504,5508,5524
+FallenPalmTree,9664,9674,5507,5511
+RLCraft_Vineyard,9530,9558,5451,5471
+VillageHouseRich1,9576,9597,5460,5478
+VillageForgeLarge,9600,9616,5460,5472
+BlazeSpawnerCrystal,9578,9584,5449,5455
+VillageInn,9609,9629,5422,5449
+SeasonsGreenhouse,9580,9590,5430,5442

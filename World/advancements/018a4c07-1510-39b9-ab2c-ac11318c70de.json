@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2022-09-25 19:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-09-04 05:19:10 +0000"
@@ -150,6 +156,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-09-25 20:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-09-04 04:37:24 +0000"
@@ -174,6 +186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2022-09-25 19:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-09-04 05:19:10 +0000"
@@ -183,6 +201,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2022-09-12 02:23:45 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/torch_hephaestite": {
+    "criteria": {
+      "has_material": "2022-09-25 20:50:28 +0000"
     },
     "done": true
   },
@@ -288,6 +312,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/hephaestite_block_uncraft": {
+    "criteria": {
+      "has_material": "2022-09-25 20:50:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-09-04 04:31:10 +0000"
@@ -302,8 +332,10 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "desert_defiled": "2022-09-25 17:48:02 +0000",
       "hills_defiled": "2022-09-12 00:46:30 +0000",
-      "swamp_defiled": "2022-09-10 04:38:03 +0000"
+      "swamp_defiled": "2022-09-10 04:38:03 +0000",
+      "plains_defiled": "2022-09-25 18:05:27 +0000"
     },
     "done": false
   },
@@ -315,12 +347,13 @@
   },
   "defiledlands:main/kill_all_mobs": {
     "criteria": {
+      "shambler_twisted": "2022-09-26 02:08:57 +0000",
       "scuttler": "2022-09-12 00:47:51 +0000",
       "slime_defiled": "2022-09-12 01:06:59 +0000",
       "host": "2022-09-12 01:07:24 +0000",
       "shambler": "2022-09-12 03:09:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
@@ -532,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-09-25 19:18:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2022-09-04 07:22:44 +0000"
@@ -547,6 +586,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2022-09-11 01:34:49 +0000",
+      "shulker": "2022-09-25 19:46:39 +0000",
       "wither_skeleton": "2022-09-10 03:11:51 +0000",
       "zombie_villager": "2022-09-10 03:52:32 +0000",
       "vindicator": "2022-09-10 02:59:35 +0000",
@@ -647,6 +687,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-09-25 19:15:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-04 05:29:55 +0000"
@@ -677,6 +723,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2022-09-25 20:44:15 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/gold_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2022-09-06 02:13:07 +0000"
@@ -686,6 +738,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2022-09-04 08:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-09-25 19:16:44 +0000"
     },
     "done": true
   },
@@ -785,6 +843,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2022-09-25 18:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2022-09-04 04:56:41 +0000"
@@ -857,6 +921,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/hephaestite_block": {
+    "criteria": {
+      "has_material": "2022-09-25 20:50:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2022-09-04 04:59:38 +0000"
@@ -908,6 +978,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-09-04 04:39:33 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2022-09-25 20:44:15 +0000"
     },
     "done": true
   },
@@ -1013,6 +1089,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/scarlite_block": {
+    "criteria": {
+      "has_material": "2022-09-25 20:53:32 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/scale_golden_helmet": {
     "criteria": {
       "has_material": "2022-09-12 13:44:26 +0000"
@@ -1070,6 +1152,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2022-09-04 04:21:31 +0000",
+      "frozen_river": "2022-09-25 22:24:16 +0000",
       "forest": "2022-09-04 09:33:33 +0000",
       "swampland": "2022-09-10 03:56:00 +0000",
       "birch_forest": "2022-09-12 02:09:36 +0000",
@@ -1080,6 +1163,7 @@
       "forest_hills": "2022-09-10 03:55:35 +0000",
       "plains": "2022-09-10 05:30:58 +0000",
       "savanna": "2022-09-12 00:25:56 +0000",
+      "savanna_rock": "2022-09-25 21:31:32 +0000",
       "ice_mountains": "2022-09-11 23:26:56 +0000",
       "taiga": "2022-09-04 04:21:17 +0000",
       "taiga_hills": "2022-09-04 04:19:49 +0000",
@@ -1087,6 +1171,7 @@
       "ocean": "2022-09-04 10:15:55 +0000",
       "extreme_hills": "2022-09-04 04:33:42 +0000",
       "roofed_forest": "2022-09-10 05:30:55 +0000",
+      "cold_beach": "2022-09-25 22:23:01 +0000",
       "river": "2022-09-04 04:36:50 +0000",
       "jungle": "2022-09-10 05:27:35 +0000",
       "desert": "2022-09-12 00:08:06 +0000"
@@ -1108,6 +1193,18 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2022-09-04 05:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2022-09-25 19:49:33 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/blastem_fruit_blazing": {
+    "criteria": {
+      "has_material": "2022-09-25 20:50:28 +0000"
     },
     "done": true
   },
@@ -1234,6 +1331,18 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-04 05:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-09-25 19:50:01 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2022-09-25 20:44:15 +0000"
     },
     "done": true
   },
@@ -1447,6 +1556,12 @@
     },
     "done": true
   },
+  "defiledlands:main/hephaestite": {
+    "criteria": {
+      "hephaestite": "2022-09-25 20:50:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-04 05:29:55 +0000"
@@ -1630,6 +1745,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2022-09-25 20:44:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-04 04:31:10 +0000"
@@ -1711,6 +1832,12 @@
   "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
     "criteria": {
       "has_material": "2022-09-10 04:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-09-25 18:01:41 +0000"
     },
     "done": true
   },
@@ -2044,6 +2171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-09-25 20:30:29 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/umbrium_chestplate": {
     "criteria": {
       "has_material": "2022-09-10 03:16:38 +0000"
@@ -2344,6 +2477,18 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-09-25 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "qualitytools:recipes/qualitytools/reforging_station": {
+    "criteria": {
+      "has_anvil": "2022-09-25 20:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2022-09-04 04:39:33 +0000"
@@ -2359,6 +2504,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-09-04 05:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-09-25 19:41:10 +0000"
     },
     "done": true
   },
@@ -2392,6 +2543,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2022-09-25 20:44:15 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_spear": {
     "criteria": {
       "has_diamond": "2022-09-04 07:22:44 +0000"
@@ -2401,6 +2558,12 @@
   "defiledlands:recipes/tools/umbra_blaster": {
     "criteria": {
       "has_material": "2022-09-10 03:16:38 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2022-09-25 20:44:15 +0000"
     },
     "done": true
   },
@@ -2425,6 +2588,12 @@
   "twilightforest:alt/biomes/twilight_swamp": {
     "criteria": {
       "0": "2022-09-15 05:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-09-25 19:02:36 +0000"
     },
     "done": true
   },
@@ -2506,9 +2675,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2022-09-25 19:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-09-04 04:39:51 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/scarlite_block_uncraft": {
+    "criteria": {
+      "has_the_recipe": "2022-09-25 20:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-09-25 19:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-09-25 19:16:44 +0000"
     },
     "done": true
   },
@@ -2579,9 +2772,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2022-09-25 18:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-09-04 05:19:10 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2022-09-25 20:44:15 +0000"
     },
     "done": true
   },
